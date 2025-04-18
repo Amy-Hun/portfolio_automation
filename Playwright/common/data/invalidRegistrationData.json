@@ -1,0 +1,9 @@
+{
+	"email": [
+		"invalid.email.com",
+		"bob.brown@example",
+		"charlie.johnson@.com",
+		"@example.com"
+	],
+	"name": ["", "  "]
+}

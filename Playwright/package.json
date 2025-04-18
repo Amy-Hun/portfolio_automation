@@ -1,0 +1,21 @@
+{
+	"name": "portfolio_automation",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test:c": "npx playwright test --project chromium",
+		"report": "npx playwright show-report"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"devDependencies": {
+		"@faker-js/faker": "^9.2.0",
+		"@playwright/test": "^1.51.1",
+		"@types/luxon": "^3.6.2",
+		"@types/node": "^22.14.1",
+		"typescript": "^5.8.3",
+		"luxon": "^3.6.1"
+	}
+}
